@@ -1,0 +1,4 @@
+---- DataQueInit Matches (3 in 2 files) ----
+DataQue.c (datastructure):UINT32 DataQueInit(tagQueCtrl *ptQueCtrl, void *pQue, UINT32 dwNum, UINT32 dwSize)
+DataQue.c (datastructure):	    printf("DataQueInit:Err\n");
+DataQue.h (datastructure):extern UINT32 DataQueInit(tagQueCtrl *ptQueCtrl, void *pQue, UINT32 dwNum, UINT32 dwSize);
